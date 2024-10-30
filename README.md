@@ -82,6 +82,14 @@ return 0;
 
 ## OUTPUT
 
+filecopy.o
+
+![image](https://github.com/user-attachments/assets/c65b0600-8f04-483f-a3e5-c2e9cc3056dd)
+
+lock.o
+
+![image](https://github.com/user-attachments/assets/2108f55d-746f-49d6-8915-52cd918901a1)
+
 
 
 
